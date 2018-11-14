@@ -12,4 +12,3 @@ And there is no better way to start a blog other than these magical words:
 {% highlight python %}
 print("Hello World! This is the first post.")
 {% endhighlight %}
-
