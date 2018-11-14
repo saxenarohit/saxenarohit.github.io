@@ -2,7 +2,6 @@
 layout: posts
 title:  "Hello World!"
 date:   2018-11-12 22:45:08 +0530
-categories: jekyll update
 
 ---
 
