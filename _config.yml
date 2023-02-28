@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Spilling the Beans"
+title                    : "Rohit Saxena"
 title_separator          : "-"
 name                     : "Rohit Saxena"
 description              : "An amazing website."
@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Rohit Saxena"
   avatar           : "/assets/images/profile.jpeg"
-  bio              : "Researcher at TCS Research"
-  location         : "Pune"
+  bio              : "PhD Student at the University of Edinburgh"
+  location         : "Edinburgh, UK"
   email            :
   links:
     - label: "Email"
