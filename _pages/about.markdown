@@ -17,5 +17,5 @@ I also enjoy Photography and Travelling!
 I am actively looking for internship opportunites in NLP.
 
 [cdt-nlp]:https://web.inf.ed.ac.uk/cdt/natural-language-processing
-[trddc-link]: http://www.tcs-trddc.com/
+[trddc-link]: https://en.wikipedia.org/wiki/Tata_Research_Development_and_Design_Centre
 [resume-link]: https://drive.google.com/open?id=1XSPMad-6rqM40CHGLcOEOwL8EOiqgFmF
