@@ -10,17 +10,9 @@ I am a PhD student at [CDT in NLP][cdt-nlp], School of Informatics, University o
 
 Previously, I have worked as Researcher at [Tata Research Development and Design Center (TRDDC)][trddc-link], TCS Research, Pune India. At TRDDC, I was part of Media and Entertainment Research group and was advised by Niranjan Pedanekar. I also spent some years with Cybersecurity and Privacy Research group.
 
-My areas of interest are:
-<ul>
-<li>Multimodal Analysis.</li>
-<li>Neural Networks and Machine Learning.</li>
-<li>Natural Language Processing.</li>
-<li>Social Network Analysis.</li>
-</ul>
-
 Have a look at my [resume][resume-link] for more information.
 
-I enjoy Photography
+I also enjoy Photography and Travelling!
 
 I am actively looking for internship opportunites in NLP.
 
