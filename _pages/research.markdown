@@ -8,10 +8,10 @@ classes: wide
 
 ### Papers
 
-1. EmotionX-Area66: Predicting Emotions in Dialogues using Hierarchical Attention Network with Sequence Labeling. (ACL 2018 Workshop) [slide][slide-1][paper-1]
-2. Live on TV, Alive on Twitter: Quantifying Continuous Partial Attention of Viewers During Live Television Telecasts. (ICDM 2017 Workshop) [slide][slide-2][paper-2]
-3. I Know What You Coded Last Summer: Mining Candidate Expertise from GitHub Repositories. (CSCW 2017) [slide][slide-3][link][paper-3] 
-4. POSTER: WinOver Enterprise Dark Data. (CCS 2015)[link][paper-4]
+1. EmotionX-Area66: Predicting Emotions in Dialogues using Hierarchical Attention Network with Sequence Labeling. (ACL 2018 Workshop) [slide][slide-1] [paper][paper-1]
+2. Live on TV, Alive on Twitter: Quantifying Continuous Partial Attention of Viewers During Live Television Telecasts. (ICDM 2017 Workshop) [slide][slide-2] [paper][paper-2]
+3. I Know What You Coded Last Summer: Mining Candidate Expertise from GitHub Repositories. (CSCW 2017) [slide][slide-3] [paper][paper-3] 
+4. POSTER: WinOver Enterprise Dark Data. (CCS 2015) [paper][paper-4]
 
 
 ### Patents
