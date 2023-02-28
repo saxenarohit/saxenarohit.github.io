@@ -16,10 +16,10 @@ classes: wide
 
 ### Patents
 
-1. Dynamic data masking for mainframe application.[link][patent-1]
-2. Automating a process associated with a web based software application.[link][patent-2]
+1. Dynamic data masking for mainframe application. [link][patent-1]
+2. Automating a process associated with a web based software application. [link][patent-2]
 3. Sensitive audio zone rearrangement for customer verification and query processing. [link][patent-3]
-4. Method and system for efficient selective backup strategy in an enterprise.[link][patent-4]
+4. Method and system for efficient selective backup strategy in an enterprise. [link][patent-4]
 
 
 [slide-1]: https://drive.google.com/open?id=1fngxfMA1ND5XDd-lOniwp6VLVmnPGoRJ
