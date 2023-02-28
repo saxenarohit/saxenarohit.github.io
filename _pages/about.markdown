@@ -1,13 +1,14 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "All about me."
+excerpt: "About me"
 layout: single
 classes: wide
 ---
 
-Hi there, I am working as a Researcher at [Tata Research Development and Design Center (TRDDC)][trddc-link], TCS Research, Pune India.
-My current area of research lies in the intersection of Entertainment, Data Science and Behavioural Science. I am interested in  multimodal analysis to re-imagine the future of entertainment.
+I am a PhD student at [CDT in NLP][cdt-nlp], School of Informatics, University of Edinburgh advised by Prof Frank Keller. My research interest lie in the field of Natural Language Processing and Multimodal Machine Learning. 
+
+Previously, I have worked as Researcher at [Tata Research Development and Design Center (TRDDC)][trddc-link], TCS Research, Pune India. At TRDDC, I was part of Media and Entertainment Research group and was advised by Niranjan Pedanekar. I also spent some years with Cybersecurity and Privacy Research group.
 
 My areas of interest are:
 <ul>
@@ -19,7 +20,10 @@ My areas of interest are:
 
 Have a look at my [resume][resume-link] for more information.
 
-I am actively looking for PhD opportunities.
+I enjoy Photography
 
+I am actively looking for internship opportunites in NLP.
+
+[cdt-nlp]:https://web.inf.ed.ac.uk/cdt/natural-language-processing
 [trddc-link]: http://www.tcs-trddc.com/
 [resume-link]: https://drive.google.com/open?id=1XSPMad-6rqM40CHGLcOEOwL8EOiqgFmF
