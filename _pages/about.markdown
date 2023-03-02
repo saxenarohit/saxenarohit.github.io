@@ -18,4 +18,4 @@ I am actively looking for internship opportunites in NLP.
 
 [cdt-nlp]:https://web.inf.ed.ac.uk/cdt/natural-language-processing
 [trddc-link]: https://en.wikipedia.org/wiki/Tata_Research_Development_and_Design_Centre
-[resume-link]: https://drive.google.com/open?id=1XSPMad-6rqM40CHGLcOEOwL8EOiqgFmF
+[resume-link]: https://drive.google.com/file/d/1H7h1BVU8fDbHLozGiR_M06J2dF-ZJZP0/view?usp=sharing

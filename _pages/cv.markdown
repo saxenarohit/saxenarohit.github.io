@@ -8,4 +8,4 @@ classes: wide
 
 Here is my updated [CV][resume-link] for more information.
 
-[resume-link]: https://drive.google.com/open?id=1XSPMad-6rqM40CHGLcOEOwL8EOiqgFmF
+[resume-link]: https://drive.google.com/file/d/1H7h1BVU8fDbHLozGiR_M06J2dF-ZJZP0/view?usp=sharing
