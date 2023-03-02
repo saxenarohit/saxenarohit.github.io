@@ -1,5 +1,5 @@
 ---
-permalink: /Cv/
+permalink: /cv/
 title: "CV"
 excerpt: "CV"
 layout: single
