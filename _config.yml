@@ -111,7 +111,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:saxenarohit2018[at]gmail[dot]com
     - label: "Twitter"
-      icon: "fas fa-fw fa-twitter-square"
+      icon: "fas fa-fw fa-twitter"
       url: "https://twitter.com/rohit_saxena"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-link"
