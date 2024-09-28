@@ -5,20 +5,22 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>rohit.saxena@ed.ac.uk</p>
+    <p>University of Edinburgh</p>
+    <p></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a final year PhD student at the University of Edinburgh.
+I am a final year PhD student at the University of Edinburgh. I am advised by [Prof Frank Keller](https://homepages.inf.ed.ac.uk/keller/). I also collaborate with [Prof Hao Tang](https://homepages.inf.ed.ac.uk/keller/) and [Prof Pasquale Minervini](http://www.neuralnoise.com/). I am part of [EdinburghNLP ](https://edinburghnlp.inf.ed.ac.uk/) group and [CDT NLP](https://web.inf.ed.ac.uk/cdt/natural-language-processing).
+
+
 
 Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
