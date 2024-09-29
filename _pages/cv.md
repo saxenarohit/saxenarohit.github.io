@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /assets/pdf/Rohit_Saxena_Resume.pdf
-title: Resume
+title: resume
 nav: true
 nav_order: 5
 cv_pdf:
