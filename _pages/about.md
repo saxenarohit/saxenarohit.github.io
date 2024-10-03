@@ -20,3 +20,6 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a final year PhD student at the University of Edinburgh. I am advised by [Prof Frank Keller](https://homepages.inf.ed.ac.uk/keller/). I also collaborate with [Prof Pasquale Minervini](http://www.neuralnoise.com/) and [Prof Hao Tang](https://homepages.inf.ed.ac.uk/htang2/). I am affiliated with [EdinburghNLP ](https://edinburghnlp.inf.ed.ac.uk/) and [CDT NLP](https://web.inf.ed.ac.uk/cdt/natural-language-processing).
+
+My research interests broadly lie in natural language understanding and multimodal learning, with a focus on long-context modeling and the intersection of vision and language.
+
