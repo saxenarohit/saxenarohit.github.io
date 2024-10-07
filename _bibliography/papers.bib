@@ -3,6 +3,42 @@
 
 @string{aps = {American Physical Society,}}
 
+@inproceedings{saxena-keller-2024-moviesum,
+    abbr={ACL 2024},
+    title = "{M}ovie{S}um: An Abstractive Summarization Dataset for Movie Screenplays",
+    author = "Saxena, Rohit  and
+      Keller, Frank",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.239",
+    doi = "10.18653/v1/2024.findings-acl.239",
+    pages = "4043--4050",
+    abstract = "Movie screenplay summarization is challenging, as it requires an understanding of long input contexts and various elements unique to movies. Large language models have shown significant advancements in document summarization, but they often struggle with processing long input contexts. Furthermore, while television transcripts have received attention in recent studies, movie screenplay summarization remains underexplored. To stimulate research in this area, we present a new dataset, MovieSum, for abstractive summarization of movie screenplays. This dataset comprises 2200 movie screenplays accompanied by their Wikipedia plot summaries. We manually formatted the movie screenplays to represent their structural elements. Compared to existing datasets, MovieSum possesses several distinctive features: 1) It includes movie screenplays which are longer than scripts of TV episodes. 2) It is twice the size of previous movie screenplay datasets. 3) It provides metadata with IMDb IDs to facilitate access to additional external knowledge. We also show the results of recently released large language models applied to summarization on our dataset to provide a detailed baseline.",
+}
+
+@inproceedings{saxena-keller-2024-select,
+    title = "Select and Summarize: Scene Saliency for Movie Script Summarization",
+    author = "Saxena, Rohit  and
+      Keller, Frank",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2024",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-naacl.218",
+    doi = "10.18653/v1/2024.findings-naacl.218",
+    pages = "3439--3455",
+    abstract = "Abstractive summarization for long-form narrative texts such as movie scripts is challenging due to the computational and memory constraints of current language models. A movie script typically comprises a large number of scenes; however, only a fraction of these scenes are salient, i.e., important for understanding the overall narrative. The salience of a scene can be operationalized by considering it as salient if it is mentioned in the summary. Automatically identifying salient scenes is difficult due to the lack of suitable datasets. In this work, we introduce a scene saliency dataset that consists of human-annotated salient scenes for 100 movies. We propose a two-stage abstractive summarization approach which first identifies the salient scenes in script and then generates a summary using only those scenes. Using QA-based evaluation, we show that our model outperforms previous state-of-the-art summarization methods and reflects the information content of a movie more accurately than a model that takes the whole movie script as input.",
+}
 
 @inproceedings{saxena-etal-2018-emotionx,
     title = "{E}motion{X}-Area66: Predicting Emotions in Dialogues using Hierarchical Attention Network with Sequence Labeling",
@@ -21,6 +57,8 @@
     pages = "50--55",
     abstract = "This paper presents our system submitted to the EmotionX challenge. It is an emotion detection task on dialogues in the EmotionLines dataset. We formulate this as a hierarchical network where network learns data representation at both utterance level and dialogue level. Our model is inspired by Hierarchical Attention network (HAN) and uses pre-trained word embeddings as features. We formulate emotion detection in dialogues as a sequence labeling problem to capture the dependencies among labels. We report the performance accuracy for four emotions (anger, joy, neutral and sadness). The model achieved unweighted accuracy of 55.38{\%} on Friends test dataset and 56.73{\%} on EmotionPush test dataset. We report an improvement of 22.51{\%} in Friends dataset and 36.04{\%} in EmotionPush dataset over baseline results.",
 }
+
+
 <!--
 @book{einstein1920relativity,
   title={Relativity: the Special and General Theory},
