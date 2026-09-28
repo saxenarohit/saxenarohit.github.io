@@ -61,7 +61,8 @@ h2 a{font-size:11.5px;text-decoration:none;color:var(--muted)}
 p{margin:0 0 16px}
 
 /* research */
-.themes{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px 40px}
+.themes{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0;border-top:1px solid var(--soft);border-left:1px solid var(--soft)}
+.theme{padding:18px 22px 20px;border-right:1px solid var(--soft);border-bottom:1px solid var(--soft)}
 .theme .n{font-family:var(--mono);font-size:11.5px;color:var(--accent);letter-spacing:.08em}
 .theme h3{margin:2px 0 6px;font-size:19.5px;font-weight:600;line-height:1.3}
 .theme p{margin:0;font-size:16.5px;color:var(--muted);line-height:1.5}
@@ -181,7 +182,8 @@ table.results td.num{text-align:right;font-variant-numeric:tabular-nums}
   .lede{font-size:24px;margin-bottom:28px}
   .available{flex-direction:column;gap:8px;margin-bottom:48px}
   section{margin-bottom:48px}
-  .themes{grid-template-columns:1fr;gap:22px}
+  .themes{grid-template-columns:1fr}
+  .theme{padding:16px 16px 18px}
   .news li,.updates li,.bench li{grid-template-columns:1fr;gap:0;padding:8px 0}
   .project h3{font-size:20px}
   .bib pre{padding-top:40px}
