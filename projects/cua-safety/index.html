@@ -134,7 +134,7 @@ document.querySelectorAll('.copy-btn').forEach(function(b){
   var root=document.documentElement, btn=document.getElementById('theme'), saved=null;
   try{saved=localStorage.getItem('theme')}catch(e){}
   if(saved) root.setAttribute('data-theme',saved);
-  function isDark(){var t=root.getAttribute('data-theme');return t?t==='dark':matchMedia('(prefers-color-scheme: dark)').matches}
+  function isDark(){var t=root.getAttribute('data-theme');return t==='dark'}
   function label(){btn.textContent=isDark()?'Light':'Dark'}
   label();
   btn.addEventListener('click',function(){

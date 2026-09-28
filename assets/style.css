@@ -5,12 +5,6 @@
   --serif:"Newsreader",Georgia,"Times New Roman",serif;
   --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
 }
-@media (prefers-color-scheme:dark){
-  :root:not([data-theme="light"]){
-    --paper:#121210; --paper-2:#1b1a17; --ink:#ece8df; --muted:#9b958a;
-    --line:#ece8df; --soft:#2e2b26; --accent:#f07a5a; --teal:#5cbdb2;
-  }
-}
 :root[data-theme="dark"]{
   --paper:#121210; --paper-2:#1b1a17; --ink:#ece8df; --muted:#9b958a;
   --line:#ece8df; --soft:#2e2b26; --accent:#f07a5a; --teal:#5cbdb2;
